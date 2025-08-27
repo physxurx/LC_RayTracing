@@ -1,6 +1,7 @@
 # LC_RayTracing
 
 Author: Rongxing Xu
+
 Email: xurongxing123@gmail.com
 
 This repository contains the main code 
