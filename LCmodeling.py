@@ -9,7 +9,7 @@ Purpose: Modeling defect lines in LC
 """
 
 import numpy as np
-from ults_LC import Q2n, n2Q, dirichlet_boundary_conditions, pseudo_grad_energy_elastic, pseudo_grad_energy_LdG
+from ults.ults_LC import Q2n, n2Q, dirichlet_boundary_conditions, pseudo_grad_energy_elastic, pseudo_grad_energy_LdG
 
 
 
