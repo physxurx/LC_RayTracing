@@ -11,7 +11,7 @@ Purpose: Modeling ray tracing in 2d vortical LC
 
 import numpy as np
 from scipy.integrate import odeint
-from ults import christoffel_symbols
+from ults.ults_RT import christoffel_symbols
 
 def vortex_field(pos):
     xx, yy = pos
