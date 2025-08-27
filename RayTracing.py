@@ -34,7 +34,7 @@ def eqfunc(zz, t):
     return [vx, vy, aa[0], aa[1]]
 
 # Constants
-k = -1
+k = 1
 c = 0
 ne = 1.7
 no = 1.5
