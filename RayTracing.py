@@ -34,8 +34,8 @@ def eqfunc(zz, t):
     return [vx, vy, aa[0], aa[1]]
 
 # Constants
-k = 1
-c = 0
+k = -9
+c = np.pi/2
 ne = 1.7
 no = 1.5
 delta_n2 = ne**2 - no**2
